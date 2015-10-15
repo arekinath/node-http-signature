@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "assert-plus": "^0.1.5",
-    "jsprim": "^1.2.0",
+    "jsprim": "^1.2.2",
     "sshpk": "^1.4.6"
   },
   "peerDependencies": {
